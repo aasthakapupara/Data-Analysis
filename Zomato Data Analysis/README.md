@@ -4,9 +4,9 @@
 Understanding customer preferences and restaurant trends is important for making informed business decisions in the food industry.  
 In this project, we analyze Zomato's restaurant dataset using Python to extract meaningful insights such as:
 
-✅ Do more restaurants provide online delivery compared to offline services?
-✅ Which types of restaurants are most favored by the general public?
-✅ What price range do couples prefer for dining out?
+✅ Do more restaurants provide online delivery compared to offline services?<br/>
+✅ Which types of restaurants are most favored by the general public?<br/>
+✅ What price range do couples prefer for dining out?<br/>
 ✅ How do ratings vary between online and offline orders?
 
 ---

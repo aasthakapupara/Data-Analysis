@@ -55,5 +55,3 @@ The analysis produces:
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-Do you want me to also make a **shorter professional GitHub-style README** with badges and quick visual previews? That would make it more attr
